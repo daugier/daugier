@@ -2,7 +2,7 @@
 
 # Dorian Augier
 
-**Développeur Java / Angular — Data, SQL, Talend, ETL**  
+**Consultant technique Java / Data & ETL**  
 Reprise, correction et fiabilisation d'applications métier et de traitements de données
 
 📍 Dax, Landes · 🎓 [École 42](https://42.fr)
