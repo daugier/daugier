@@ -75,16 +75,16 @@ Formation **École 42** (C, systèmes, algorithmique). **Freelance** sur des mis
 
 <br>
 
-**Freelance — développeur Java / Angular, data & ETL** *(2024 – aujourd'hui)*  
+**Freelance — développeur Java / Angular, data & ETL** *(juillet 2026 – aujourd'hui)*  
 Reprise d'existant, correction d'anomalies, flux de données, applications métier.
 
 **Rénovation de bâtiments** — activité familiale *(2023 – 2026, ~3 ans)*  
 Travaux de rénovation en activité familiale. Expérience terrain : contraintes réelles, organisation, livraison concrète — renforce le pragmatisme au quotidien.
 
-**Référent technique web / Développeur Java Angular** — FMS, projets Airbus *(2022 – 2023, ~1 an)*  
+**Référent technique web / Développeur Java Angular** — FMS, projets Airbus *(2022 – 2023, 1 an 2 mois)*  
 Applications web métier en environnement industriel. Analyse des besoins, développement, correction d'anomalies, support applicatif, coordination technique. Java, Angular, SQL, Oracle, Docker, Kubernetes, CI/CD, Agile / SAFe.
 
-**Développeur Talend / ETL** — Visioneo *(2019 – 2021, ~2 ans ½)*  
+**Développeur Talend / ETL** — Visioneo *(2019 – 2021, 2 ans 6 mois)*  
 Développement et fiabilisation de traitements de données. Flux ETL Talend et SQL : extraction, transformation, chargement, migration, synchronisation, qualité des données.
 
 **Stage développeur full-stack** — Opteamis, Paris *(2017 – 2018, ~6 mois)*  
