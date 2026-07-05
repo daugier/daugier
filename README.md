@@ -95,28 +95,7 @@ Formation **École 42** : C, systèmes, algorithmique, autonomie et travail en �
 
 ---
 
-<details>
-<summary><b>Projets 42</b></summary>
-
-<br>
-
-| | Projet | En quelques mots |
-|:---:|--------|------------------|
-| 🎨 | [**ray-tracer**](https://github.com/daugier-42/ray-tracer) | Moteur de ray tracing 3D — C, SDL, OpenCL |
-| 🕹️ | [**wolf-3d**](https://github.com/daugier-42/wolf-3d) | Raycasting type Wolfenstein 3D |
-| 🔬 | [**fract-ol**](https://github.com/daugier-42/fract-ol) | Fractales interactives (Mandelbrot, Julia…) |
-| 🧩 | [**fillit**](https://github.com/daugier-42/fillit) | Tetriminos sur grille minimale — backtracking |
-
-→ [Voir l'ensemble des projets réalisés à l'école 42](https://github.com/daugier-42)
-
-</details>
-
----
-
-<details>
-<summary><b>Parcours</b></summary>
-
-<br>
+## Parcours
 
 **Freelance — développeur Java / Angular, data & ETL** *(juillet 2026 – aujourd'hui)*  
 Reprise d'existant, correction d'anomalies, flux de données, applications métier.
@@ -136,7 +115,7 @@ Applications web full-stack : fonctionnalités applicatives, services backend, b
 **École 42**, Paris *(2016 – 2018)*  
 C, systèmes, algorithmique, travail en autonomie et en équipe.
 
-</details>
+---
 
 <details>
 <summary><b>Projets personnels (aperçu)</b></summary>
