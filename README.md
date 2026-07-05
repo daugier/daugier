@@ -16,7 +16,7 @@ J'aide les entreprises à **reprendre, comprendre et fiabiliser** leurs applicat
 
 J'interviens lorsqu'une application pose problème, qu'un flux de données ne tourne plus correctement, qu'un projet doit être repris, ou qu'un système technique a besoin d'être clarifié et stabilisé. Mon parcours m'a mené aux **applications métier Java / Angular**, aux **flux Talend / ETL** et au **SQL** — souvent en lien direct avec les utilisateurs et les équipes métier, dans des contextes industriels exigeants.
 
-Formation **École 42** (C, systèmes, algorithmique). Aujourd'hui **freelance** sur des missions techniques ciblées.
+Formation **École 42** (C, systèmes, algorithmique). **Freelance** sur des missions techniques ciblées.
 
 ---
 
@@ -52,14 +52,21 @@ Formation **École 42** (C, systèmes, algorithmique). Aujourd'hui **freelance**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 </p>
 
-Java · Spring Boot · Angular · TypeScript · SQL · Talend / ETL · API REST · JHipster · Docker · Git · Oracle · MySQL · Maven · CI/CD
+**Backend & web** — Java · Spring Boot · JHipster · Hibernate / JPA · Maven · API REST · Angular · TypeScript
+
+**Données** — SQL · Talend · ETL · intégration · migration · synchronisation · transformation de flux · Oracle · MySQL · PostgreSQL · MongoDB
+
+**Ops & outillage** — Docker · Kubernetes · Ansible · Git · CI/CD · Linux
 
 ---
 
@@ -68,20 +75,23 @@ Java · Spring Boot · Angular · TypeScript · SQL · Talend / ETL · API REST 
 
 <br>
 
-**Référent technique web / Développeur Java Angular** — FMS, projets Airbus *(~1 an)*  
-Référent sur des applications web métier en environnement industriel. Analyse des besoins, développement, correction d'anomalies, support applicatif, coordination technique. Java, Angular, SQL, Oracle, Docker, Kubernetes, CI/CD, Agile / SAFe.
+**Freelance — développeur Java / Angular, data & ETL** *(2024 – aujourd'hui)*  
+Reprise d'existant, correction d'anomalies, flux de données, applications métier.
 
-**Développeur Talend / ETL** — Visioneo *(~2 ans ½)*  
+**Rénovation de bâtiments** — activité familiale *(2023 – 2026, ~3 ans)*  
+Travaux de rénovation en activité familiale. Expérience terrain : contraintes réelles, organisation, livraison concrète — renforce le pragmatisme au quotidien.
+
+**Référent technique web / Développeur Java Angular** — FMS, projets Airbus *(2022 – 2023, ~1 an)*  
+Applications web métier en environnement industriel. Analyse des besoins, développement, correction d'anomalies, support applicatif, coordination technique. Java, Angular, SQL, Oracle, Docker, Kubernetes, CI/CD, Agile / SAFe.
+
+**Développeur Talend / ETL** — Visioneo *(2019 – 2021, ~2 ans ½)*  
 Développement et fiabilisation de traitements de données. Flux ETL Talend et SQL : extraction, transformation, chargement, migration, synchronisation, qualité des données.
 
-**Stage développeur full-stack** *(~6 mois)*  
+**Stage développeur full-stack** — Opteamis, Paris *(2017 – 2018, ~6 mois)*  
 Applications web full-stack : fonctionnalités applicatives, services backend, bases de données, API REST. Java, JavaScript, Angular, SQL, Git.
 
 **École 42**, Paris *(2016 – 2018)*  
 C, systèmes, algorithmique, travail en autonomie et en équipe.
-
-**Rénovation de bâtiments** — activité familiale *(~3 ans)*  
-Expérience terrain : analyse des contraintes, organisation, livraison concrète. Renforce le pragmatisme au quotidien.
 
 </details>
 
@@ -90,9 +100,17 @@ Expérience terrain : analyse des contraintes, organisation, livraison concrète
 
 <br>
 
-Application de gestion de budget · générateur de sites web (OpenAI) · addons World of Warcraft · comparateur de paris sportifs · automatisation · site WordPress pour une activité indépendante.
+| Projet | Description |
+|--------|-------------|
+| [**Cursor-chat-gpt**](https://github.com/daugier/Cursor-chat-gpt) | Espace Cursor configuré pour discuter comme ChatGPT *(public)* |
+| Voilà Budget | Application mobile de gestion de budget mensuel *(Flutter)* |
+| Voilà Icons | Application mobile de personnalisation des coloris d'icônes *(Flutter)* |
+| EasyWeb AI | Générateur automatique de sites web avec OpenAI |
+| ParisSportifsApp | Comparateur de paris sportifs — repérage de surebets |
+| KDO | Bots de trading crypto sur API Binance *(JHipster)* |
+| Maessia | Site WordPress pour une activité indépendante |
 
-*Repos privés — non représentatifs du positionnement pro actuel.*
+La plupart de ces dépôts sont **privés** : ils contiennent des données personnelles, des configurations ou du code expérimental sans vocation open source.
 
 </details>
 
@@ -100,6 +118,6 @@ Application de gestion de budget · générateur de sites web (OpenAI) · addons
 
 <div align="center">
 
-*Freelance · repos pro et perso en privé · code 42 public sur [daugier-42](https://github.com/daugier-42)*
+*Freelance · code 42 public sur [daugier-42](https://github.com/daugier-42)*
 
 </div>
