@@ -2,7 +2,7 @@
 
 # Dorian Augier
 
-**Développeur · auto-entrepreneur**
+**Développeur Java / Angular — Data, SQL, Talend, ETL**
 
 📍 Dax, Landes · 🎓 [École 42](https://42.fr)
 
@@ -12,17 +12,27 @@
 
 ## En bref
 
-Je développe et **reprends des applications existantes** — backends Java, flux SQL / ETL, sites web — en privilégiant le concret : comprendre le contexte, stabiliser, livrer.
+J'aide les entreprises à **reprendre, comprendre et fiabiliser** leurs applications ou leurs traitements de données existants.
 
-Mon parcours va du **C & systèmes** (42) aux **applications métier Java / Angular** et à la **donnée (Talend, SQL)** en environnement pro. Aujourd'hui en **micro-entreprise** : maintenance applicative et sites vitrines (Next.js).
+J'interviens lorsqu'une application pose problème, qu'un flux de données ne tourne plus correctement, qu'un projet doit être repris, ou qu'un système technique a besoin d'être clarifié et stabilisé. Mon parcours m'a mené aux **applications métier Java / Angular**, aux **flux Talend / ETL** et au **SQL** — souvent en lien direct avec les utilisateurs et les équipes métier, dans des contextes industriels exigeants.
 
-Je ne survends pas : je suis à l'aise sur le code backend, la donnée et la reprise de projets existants. Le design graphique poussé ou l'infra à grande échelle, ce n'est pas mon cœur de métier.
+Formation **École 42** (C, systèmes, algorithmique). Aujourd'hui **freelance** sur des missions techniques ciblées.
 
 ---
 
-## Projets 42 — publics
+## Ce sur quoi j'interviens
 
-Quelques projets de l'école 42, disponibles sur l'organisation **[daugier-42](https://github.com/daugier-42)** :
+- Reprise et stabilisation de projets existants
+- Correction de bugs et anomalies applicatives
+- Support et développement **backend Java / Spring Boot**
+- Développement **full-stack Java / Angular** et API REST
+- **SQL**, bases de données, optimisation de requêtes
+- **Talend / ETL** — migration, intégration, synchronisation et fiabilisation de flux de données
+- Automatisation de traitements et audit technique d'un existant
+
+---
+
+## Projets 42
 
 | | Projet | En quelques mots |
 |:---:|--------|------------------|
@@ -31,7 +41,7 @@ Quelques projets de l'école 42, disponibles sur l'organisation **[daugier-42](h
 | 🔬 | [**fract-ol**](https://github.com/daugier-42/fract-ol) | Fractales interactives (Mandelbrot, Julia…) |
 | 🧩 | [**fillit**](https://github.com/daugier-42/fillit) | Tetriminos sur grille minimale — backtracking |
 
-> D'autres repos 42 existent sur l'org ; seuls ceux-ci sont mis en avant pour l'instant.
+→ [Voir l'ensemble des projets réalisés à l'école 42](https://github.com/daugier-42)
 
 ---
 
@@ -40,30 +50,49 @@ Quelques projets de l'école 42, disponibles sur l'organisation **[daugier-42](h
 <p align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 </p>
 
-Java · Spring / JHipster · SQL · ETL (Talend) · C · React / Next.js · Angular
+Java · Spring Boot · Angular · TypeScript · SQL · Talend / ETL · API REST · JHipster · Docker · Git · Oracle · MySQL · Maven · CI/CD
 
 ---
 
 <details>
-<summary><b>Parcours pro (résumé)</b></summary>
+<summary><b>Parcours</b></summary>
 
 <br>
 
-| Période | Contexte |
-|---------|----------|
-| 2022 – 2023 | Référent technique — applications métier **Java / Angular** |
-| 2019 – 2021 | Développeur **BI / ETL** — Talend, SQL, JHipster |
-| 2016 – 2018 | **École 42**, Paris — C, systèmes, algorithmique |
-| 2017 – 2018 | Stage full stack — PHP, SQL |
+**Référent technique web / Développeur Java Angular** — FMS, projets Airbus *(~1 an)*  
+Référent sur des applications web métier en environnement industriel. Analyse des besoins, développement, correction d'anomalies, support applicatif, coordination technique. Java, Angular, SQL, Oracle, Docker, Kubernetes, CI/CD, Agile / SAFe.
+
+**Développeur Talend / ETL** — Visioneo *(~2 ans ½)*  
+Développement et fiabilisation de traitements de données. Flux ETL Talend et SQL : extraction, transformation, chargement, migration, synchronisation, qualité des données.
+
+**Stage développeur full-stack** *(~6 mois)*  
+Applications web full-stack : fonctionnalités applicatives, services backend, bases de données, API REST. Java, JavaScript, Angular, SQL, Git.
+
+**École 42**, Paris *(2016 – 2018)*  
+C, systèmes, algorithmique, travail en autonomie et en équipe.
+
+**Rénovation de bâtiments** — activité familiale *(~3 ans)*  
+Expérience terrain : analyse des contraintes, organisation, livraison concrète. Renforce le pragmatisme au quotidien.
+
+</details>
+
+<details>
+<summary><b>Projets personnels (aperçu)</b></summary>
+
+<br>
+
+Application de gestion de budget · générateur de sites web (OpenAI) · addons World of Warcraft · comparateur de paris sportifs · automatisation · site WordPress pour une activité indépendante.
+
+*Repos privés — non représentatifs du positionnement pro actuel.*
 
 </details>
 
@@ -71,6 +100,6 @@ Java · Spring / JHipster · SQL · ETL (Talend) · C · React / Next.js · Angu
 
 <div align="center">
 
-*Repos perso et pro en privé · portfolio 42 public sur [daugier-42](https://github.com/daugier-42)*
+*Freelance · repos pro et perso en privé · code 42 public sur [daugier-42](https://github.com/daugier-42)*
 
 </div>
