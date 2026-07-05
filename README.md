@@ -1,37 +1,37 @@
 <div align="center">
 
-# 👋 Dorian Augier
+# Dorian Augier
 
-**Développeur · Java · SQL · ETL**
+**Développeur · auto-entrepreneur**
 
-🚀 Auto-entrepreneur &nbsp;·&nbsp; 🎓 [École 42](https://42.fr) &nbsp;·&nbsp; 📍 Dax, Landes
+📍 Dax, Landes · 🎓 [École 42](https://42.fr)
 
 </div>
 
 ---
 
-## À propos
+## En bref
 
-Je développe et **reprends des applications existantes** — web, données, backends — avec une approche concrète : comprendre le besoin, stabiliser, livrer.
+Je développe et **reprends des applications existantes** — backends Java, flux SQL / ETL, sites web — en privilégiant le concret : comprendre le contexte, stabiliser, livrer.
 
-Mon parcours m'a mené du **C & systèmes** (42) aux **applications métier Java / Angular** et aux **flux de données (Talend, SQL, ETL)** en environnement industriel.
+Mon parcours va du **C & systèmes** (42) aux **applications métier Java / Angular** et à la **donnée (Talend, SQL)** en environnement pro. Aujourd'hui en **micro-entreprise** : maintenance applicative et sites vitrines (Next.js).
 
-Aujourd'hui en **micro-entreprise**, je construis aussi des **projets personnels** mobile & web en parallèle.
+Je ne survends pas : je suis à l'aise sur le code backend, la donnée et la reprise de projets existants. Le design graphique poussé ou l'infra à grande échelle, ce n'est pas mon cœur de métier.
 
 ---
 
-## Projets mis en avant
+## Projets 42 — publics
 
-| | Projet | Description | Stack | Statut |
-|:---:|--------|-------------|-------|--------|
-| 🎓 | [**42**](https://github.com/daugier/42) | Portfolio des projets école 42 — C, graphisme, web, systèmes | `C` · `PHP` · `JS` | 🔒 Privé |
-| 🌐 | [**mon-site-dorian**](https://github.com/daugier/mon-site-dorian) | Site personnel | `Next.js` · `TypeScript` | 🔒 Privé |
-| 🛒 | [**AhSalesLog**](https://github.com/daugier/AhSalesLog) | Addon WoW — historique des ventes à l'Hôtel des ventes | `Lua` | 🔒 Privé |
-| 📱 | [**voila_budget_app**](https://github.com/daugier/voila_budget_app) | Gestion de budget mensuel | `Flutter` · `Dart` | 🧪 En test |
-| 🧩 | [**Voila_template_flutter**](https://github.com/daugier/Voila_template_flutter) | Template des apps Voilà Apps | `Flutter` · `Dart` | 🔒 Privé |
-| 🎨 | [**voila_icons_app**](https://github.com/daugier/voila_icons_app) | App d'icônes | `Flutter` · `Dart` | 🔒 Privé |
+Quelques projets de l'école 42, disponibles sur l'organisation **[daugier-42](https://github.com/daugier-42)** :
 
-> Les apps Flutter sont des **projets personnels** — pas encore publiées publiquement.
+| | Projet | En quelques mots |
+|:---:|--------|------------------|
+| 🎨 | [**ray-tracer**](https://github.com/daugier-42/ray-tracer) | Moteur de ray tracing 3D — C, SDL, OpenCL |
+| 🕹️ | [**wolf-3d**](https://github.com/daugier-42/wolf-3d) | Raycasting type Wolfenstein 3D |
+| 🔬 | [**fract-ol**](https://github.com/daugier-42/fract-ol) | Fractales interactives (Mandelbrot, Julia…) |
+| 🧩 | [**fillit**](https://github.com/daugier-42/fillit) | Tetriminos sur grille minimale — backtracking |
+
+> D'autres repos 42 existent sur l'org ; seuls ceux-ci sont mis en avant pour l'instant.
 
 ---
 
@@ -39,26 +39,30 @@ Aujourd'hui en **micro-entreprise**, je construis aussi des **projets personnels
 
 <p align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </p>
 
+Java · Spring / JHipster · SQL · ETL (Talend) · C · React / Next.js · Angular
+
+---
+
 <details>
-<summary><b>💼 Expérience pro (résumé)</b></summary>
+<summary><b>Parcours pro (résumé)</b></summary>
 
 <br>
 
 | Période | Contexte |
 |---------|----------|
-| 2022 – 2023 | Référent technique — apps métier **Java / Angular** (contexte aéronautique) |
+| 2022 – 2023 | Référent technique — applications métier **Java / Angular** |
 | 2019 – 2021 | Développeur **BI / ETL** — Talend, SQL, JHipster |
+| 2016 – 2018 | **École 42**, Paris — C, systèmes, algorithmique |
 | 2017 – 2018 | Stage full stack — PHP, SQL |
 
 </details>
@@ -67,8 +71,6 @@ Aujourd'hui en **micro-entreprise**, je construis aussi des **projets personnels
 
 <div align="center">
 
-📫 **daugier.dev@gmail.com**
-
-*Profil en cours de mise en forme — repos privés par défaut*
+*Repos perso et pro en privé · portfolio 42 public sur [daugier-42](https://github.com/daugier-42)*
 
 </div>
