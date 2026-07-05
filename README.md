@@ -91,6 +91,8 @@ Formation **École 42** : C, systèmes, algorithmique, autonomie et travail en �
 
 **Ops & outillage** — Docker · Kubernetes · Ansible · Git · CI/CD · Linux · scripts shell · environnements de développement
 
+**IA & productivité dev** — Cursor · ChatGPT · OpenAI · Claude · aide à l'analyse, au prototypage, à la documentation et à la revue de code
+
 **Méthodes & contexte** — reprise d'existant · analyse de logs · diagnostic · documentation technique · Agile / SAFe · lien avec les équipes métier
 
 ---
