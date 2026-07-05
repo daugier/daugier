@@ -53,7 +53,52 @@ Formation **École 42** : C, systèmes, algorithmique, autonomie et travail en �
 
 ---
 
-## Projets 42
+## Compétences
+
+<p align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JHipster](https://img.shields.io/badge/JHipster-3E8ACC?style=flat-square&logo=jhipster&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=apacheairflow&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Data%20flows-4B5563?style=flat-square)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+</p>
+
+**Backend & applications métier** — Java · Spring Boot · JHipster · Hibernate / JPA · Maven · API REST · correction d'anomalies · support applicatif
+
+**Frontend web** — Angular · TypeScript · JavaScript · HTML / CSS · intégration avec API REST
+
+**Données & intégration** — SQL · Talend · ETL · intégration · migration · synchronisation · transformation de flux · Oracle · MySQL · PostgreSQL · MongoDB
+
+**Ops & outillage** — Docker · Kubernetes · Ansible · Git · CI/CD · Linux · scripts shell · environnements de développement
+
+**Méthodes & contexte** — reprise d'existant · analyse de logs · diagnostic · documentation technique · Agile / SAFe · lien avec les équipes métier
+
+---
+
+<details>
+<summary><b>Projets 42</b></summary>
+
+<br>
 
 | | Projet | En quelques mots |
 |:---:|--------|------------------|
@@ -64,30 +109,7 @@ Formation **École 42** : C, systèmes, algorithmique, autonomie et travail en �
 
 → [Voir l'ensemble des projets réalisés à l'école 42](https://github.com/daugier-42)
 
----
-
-## Compétences
-
-<p align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-
-</p>
-
-**Backend & web** — Java · Spring Boot · JHipster · Hibernate / JPA · Maven · API REST · Angular · TypeScript
-
-**Données** — SQL · Talend · ETL · intégration · migration · synchronisation · transformation de flux · Oracle · MySQL · PostgreSQL · MongoDB
-
-**Ops & outillage** — Docker · Kubernetes · Ansible · Git · CI/CD · Linux
+</details>
 
 ---
 
@@ -139,6 +161,6 @@ La plupart de ces dépôts sont **privés** : ils contiennent des données perso
 
 <div align="center">
 
-*Freelance Java / Angular · Data, SQL, Talend, ETL · code 42 public sur [daugier-42](https://github.com/daugier-42)*
+*Freelance Java / Angular · Data, SQL, Talend, ETL · reprise et fiabilisation d'existants techniques*
 
 </div>
