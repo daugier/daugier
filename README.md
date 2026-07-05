@@ -130,9 +130,9 @@ C, systèmes, algorithmique, travail en autonomie et en équipe.
 | Voilà Budget | Application mobile de gestion de budget mensuel *(Flutter)* |
 | Voilà Icons | Application mobile de personnalisation des coloris d'icônes *(Flutter)* |
 | EasyWeb AI | Générateur automatique de sites web avec OpenAI |
-| ParisSportifsApp | Comparateur de paris sportifs — repérage de surebets |
-| KDO | Bots de trading crypto sur API Binance *(JHipster)* |
-| Maessia | Site WordPress pour une activité indépendante |
+| SureBet App | Comparateur de paris sportifs — repérage de surebets |
+| Trading App | Bots de trading crypto sur API Binance *(JHipster)* |
+| Site vitrine | Site WordPress pour une activité indépendante |
 
 La plupart de ces dépôts sont **privés** : ils contiennent des données personnelles, des configurations ou du code expérimental sans vocation open source.
 
