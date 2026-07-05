@@ -2,9 +2,19 @@
 
 # Dorian Augier
 
-**Développeur Java / Angular — Data, SQL, Talend, ETL**
+**Développeur Java / Angular — Data, SQL, Talend, ETL**  
+Reprise, correction et fiabilisation d'applications métier et de traitements de données
 
 📍 Dax, Landes · 🎓 [École 42](https://42.fr)
+
+<br>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=apacheairflow&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Data%20flows-4B5563?style=flat-square)
 
 </div>
 
@@ -12,23 +22,34 @@
 
 ## En bref
 
-J'aide les entreprises à **reprendre, comprendre et fiabiliser** leurs applications ou leurs traitements de données existants.
+J'aide les entreprises à **reprendre, comprendre et fiabiliser** des applications ou traitements de données existants.
 
-J'interviens lorsqu'une application pose problème, qu'un flux de données ne tourne plus correctement, qu'un projet doit être repris, ou qu'un système technique a besoin d'être clarifié et stabilisé. Mon parcours m'a mené aux **applications métier Java / Angular**, aux **flux Talend / ETL** et au **SQL** — souvent en lien direct avec les utilisateurs et les équipes métier, dans des contextes industriels exigeants.
+J'interviens quand une application pose problème, qu'un flux de données ne tourne plus correctement, qu'un projet doit être repris, ou qu'un existant technique doit être clarifié avant d'évoluer. Mon parcours m'a mené aux **applications métier Java / Angular**, aux **flux Talend / ETL** et au **SQL**, souvent en lien direct avec les utilisateurs et les équipes métier.
 
-Formation **École 42** (C, systèmes, algorithmique). **Freelance** sur des missions techniques ciblées.
+Formation **École 42** : C, systèmes, algorithmique, autonomie et travail en équipe. Aujourd'hui freelance sur des missions techniques ciblées.
 
 ---
 
-## Ce sur quoi j'interviens
+## Ce que je peux prendre en charge
 
-- Reprise et stabilisation de projets existants
-- Correction de bugs et anomalies applicatives
-- Support et développement **backend Java / Spring Boot**
-- Développement **full-stack Java / Angular** et API REST
-- **SQL**, bases de données, optimisation de requêtes
-- **Talend / ETL** — migration, intégration, synchronisation et fiabilisation de flux de données
-- Automatisation de traitements et audit technique d'un existant
+| Besoin | Intervention |
+|--------|--------------|
+| Reprendre un projet existant | Lecture du code, diagnostic, remise à plat progressive, documentation utile |
+| Corriger des anomalies | Analyse, reproduction, correction, validation avec les utilisateurs ou l'équipe technique |
+| Stabiliser une application métier | Java / Spring Boot, Angular, API REST, SQL, traitements backend |
+| Fiabiliser des flux de données | Talend / ETL, migration, intégration, synchronisation, contrôles de cohérence |
+| Clarifier une base de données | Requêtes SQL, modèle de données, optimisation simple, qualité des données |
+| Automatiser un traitement | Scripts, jobs, intégrations, petits outils internes |
+
+---
+
+## Façon de travailler
+
+- Comprendre d'abord le contexte métier et l'existant technique.
+- Isoler les problèmes avant de modifier : logs, données, cas de test, comportements attendus.
+- Corriger de manière lisible, maintenable et adaptée au niveau de complexité réel.
+- Expliquer les choix techniques sans jargon inutile, pour faciliter la reprise par l'équipe.
+- Utiliser les outils modernes, y compris l'IA comme assistant de travail, sans remplacer l'analyse ni la validation humaine.
 
 ---
 
@@ -79,7 +100,7 @@ Formation **École 42** (C, systèmes, algorithmique). **Freelance** sur des mis
 Reprise d'existant, correction d'anomalies, flux de données, applications métier.
 
 **Rénovation de bâtiments** — activité familiale *(2023 – 2026, ~3 ans)*  
-Travaux de rénovation en activité familiale. Expérience terrain : contraintes réelles, organisation, livraison concrète — renforce le pragmatisme au quotidien.
+Travaux de rénovation en activité familiale. Expérience terrain : contraintes réelles, organisation, priorisation et livraison concrète.
 
 **Référent technique web / Développeur Java Angular** — FMS, projets Airbus *(2022 – 2023, 1 an 2 mois)*  
 Applications web métier en environnement industriel. Analyse des besoins, développement, correction d'anomalies, support applicatif, coordination technique. Java, Angular, SQL, Oracle, Docker, Kubernetes, CI/CD, Agile / SAFe.
@@ -118,6 +139,6 @@ La plupart de ces dépôts sont **privés** : ils contiennent des données perso
 
 <div align="center">
 
-*Freelance · code 42 public sur [daugier-42](https://github.com/daugier-42)*
+*Freelance Java / Angular · Data, SQL, Talend, ETL · code 42 public sur [daugier-42](https://github.com/daugier-42)*
 
 </div>
